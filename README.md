@@ -1,1 +1,1 @@
-# BinaryDecitionDiagram
+# BinaryDecisionDiagram
